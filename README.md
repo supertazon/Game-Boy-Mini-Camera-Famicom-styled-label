@@ -6,11 +6,11 @@ For educational purposes only
 
 ## What's in this repo and how to order
 
-Included in this repo are two versions of the same label, both with two file formats: PDF ready to be sent to a print house and SVG for editing (with [Inkscape](https://inkscape.org/) for example).
+Included in this repo are two versions of the same label, both with two file formats: PDF ready to be sent to a print house and SVG for editing (with [Inkscape](https://inkscape.org/) for example - there are multiple layers in the SVG file for easier editing).
   1. White as a background version "-white": while discussing with different print shops, I discovered that for the white letters (MINI CAM and DMG-GBD) some could not print white ink on black ink but would rather print a white background then black ink on top leaving out the black ink to form the letters (a bit like a stencil). This version should work off the bat with all print houses however the SVG file is trickier to modify
   2. Standard version "-standard": the letters are shapes filled with white. Should also not be a problem for printing and much easier to edit the SVG file
 
-I am based in France and couldn't find a suitable print shop in Europe for the labels. I had them printed through [Jukebox](https://www.jukeboxprint.com/custom-gold-stickers) (Canada) in matte gold. Sticker dimensions are 42 x 37 mm (which looks a tiny bit too small IMO, see picture above).
+I am based in France and couldn't find a suitable print shop in Europe for the labels. I had them printed through [Jukebox](https://www.jukeboxprint.com/custom-gold-stickers) (Canada) in matte gold. Sticker dimensions are 42 x 37 mm (which looks a tiny bit too small IMO, see picture above). Ask for the yellow background to be considered as the gold sticker.
 
 ## Inspiration and process
 
@@ -28,6 +28,7 @@ I then had to recreate the different parts of the labels to fit my needs, and di
   - **The different text elements in latin alphabet**: I wanted to be as close as possible to the real deal and used [WhatFontIs](https://www.whatfontis.com) to detect which font was used in the Famicom Pulse Line labels, this is what I found:
       - "Audiovisual": Nirmala UI Semilight font (directly available on Windows 11)
       - "©": couldn't find a suitable font so I manually traced it as well
+      - "Nintendo": I imported the [SVG from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/b/b3/Nintendo_red_logo.svg)
       - "1998": corresponds to the release date of the Game Boy Camera - [HomepageBaukasten Book font](https://www.ffonts.net/HomepageBaukasten-Book1.font?text=1983)
       - "MADE IN JAPAN": [HomepageBaukasten Bold font](https://www.ffonts.net/HomepageBaukasten-Bold1.font?text=MADE%20IN%20JAPAN)
       - "DMG-GBD": I wanted to keep the same nomenclature as in the Famicom labels that have "HVC-XX" with "XX" the game code and "HVC" corresponding to the Famicom console. I thus settled on "DMG-GBD" with "DMG" corresponding to the first Game Boy and "GBD" to the [Game Boy Camera chip](https://niwanetwork.org/wiki/GBD_(Game_Boy_mapper)) - [HomepageBaukasten Bold font](https://www.ffonts.net/HomepageBaukasten-Bold1.font?text=DMG-GBD)
