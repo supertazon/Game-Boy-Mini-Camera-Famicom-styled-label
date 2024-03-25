@@ -10,7 +10,10 @@ Included in this repo are two versions of the same label, both with two file for
   1. White as a background version "-white": while discussing with different print shops, I discovered that for the white letters (MINI CAM and DMG-GBD) some could not print white ink on black ink but would rather print a white background then black ink on top leaving out the black ink to form the letters (a bit like a stencil). This version should work off the bat with all print houses however the SVG file is trickier to modify
   2. Standard version "-standard": the letters are shapes filled with white. Should also not be a problem for printing and much easier to edit the SVG file
 
-I am based in France and couldn't find a suitable print shop in Europe for the labels. I had them printed through [Jukebox](https://www.jukeboxprint.com/custom-gold-stickers) (Canada) in matte gold. Sticker dimensions are 42 x 37 mm (which looks a tiny bit too small IMO, see picture above). Ask for the yellow background to be considered as the gold sticker.
+I am based in France and couldn't find a suitable print shop in Europe for the labels. I had them printed through [Jukebox](https://www.jukeboxprint.com/custom-gold-stickers) (Canada):
+  - Matte gold
+  - Sticker dimensions are 42 x 37 mm (which looks a tiny bit too small IMO, see picture above)
+  - Ask for the yellow background to be considered as the gold sticker
 
 ## Inspiration and process
 
