@@ -15,6 +15,10 @@ I am based in France and couldn't find a suitable print shop in Europe for the l
   - Sticker dimensions are 42 x 37 mm (which looks a tiny bit too small IMO, see picture above)
   - Ask for the yellow background to be considered as the gold sticker
 
+## Details on the build
+
+Available on Reddit: [Famicom Game Boy Mini Camera](https://www.reddit.com/r/Gameboy/comments/1c4v30w/famicom_game_boy_mini_camera/)
+
 ## Inspiration and process
 
 Inspiration comes from the [14 Famicom Pulse Line cartridges](https://famicomworld.com/workshop/articles/pulse-line-cartridges/) that were sold in the early days of the Famicom. Their design is very sleek. I wanted to build a Famicom-styled Game Boy Mini Camera ever since Chris had shown the first pictures of his project. While finishing the build I thought a nice golden sticker would fit the design perfectly. I looked for scans of these labels and found [Arcanthur's collection of Famicom recreated labels](https://forums.launchbox-app.com/files/file/3676-nintendo-famicom-2d-carts-arcdragon/). I used them for reference, here is the label for Gomoku Narabe for example:
